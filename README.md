@@ -9,4 +9,4 @@ CiGA Game Jam 2022 参赛作品
 
 #### 开发说明
 
-* [CGJ 2022 开发说明](http://gitee.com/zhouyunpeng/cgj2022/wikis/Home)
+* [CGJ 2022 开发说明](https://github.com/YPZhou/CGJ2022/wiki)
